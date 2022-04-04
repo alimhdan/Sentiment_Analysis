@@ -11,7 +11,9 @@ In this project, I used the data from crawling data on Twitter with the sentence
 ![BBM NAIK WORDCLOUD](https://user-images.githubusercontent.com/102334577/161466576-2f1c6a62-e505-43d8-8165-7d2993c30061.png)
 
 From wordcloud we can see that the words often appear are words with a big size. We can see that one of the words are often appearing is "Gaji", so we can make a hypothesis that the public may be worried or asked about their "Gaji"(salary)?. Here are the top 10 words that often appear on tweets with the specification sentence "kenaikan harga bbm":
+
 ![image](https://user-images.githubusercontent.com/102334577/161640205-b218eacd-2ca3-4814-a284-0b374a8d7f04.png)
+
 
 ![sentiment proportion](https://user-images.githubusercontent.com/102334577/161467256-406ce677-5349-48c9-bc80-6fe640c2995b.png)
 

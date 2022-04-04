@@ -47,5 +47,5 @@ In this project, I divided the dataset with the proportion of 70% for train data
                                           
        'Positive' Class : Negatif         
    
- We can see that, classification accuracy is 0.9233 or 92.33% so the accuracy is well. Sensitivity and Specificity are more than 0.8 is a high value so we can conclude that the performance is very well.
+ We can see that classification accuracy is 0.9233 or 92.33% so the accuracy is well. Sensitivity and Specificity are more than 0.8 is a high value so we can conclude that the performance is very well.
    

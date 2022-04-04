@@ -8,7 +8,7 @@ This project started from the issue of increased fuel prices in early April in I
 # Data Preparation
 ![BBM NAIK WORDCLOUD](https://user-images.githubusercontent.com/102334577/161466576-2f1c6a62-e505-43d8-8165-7d2993c30061.png)
 
-From wordcloud we can see that the words often appear in the words with a size big. We can see that one of the words are often appearing is "Gaji", so we can make a hypothesis that the public may be worried or asked about their "Gaji"(salary)?.
+From wordcloud we can see that the words often appear are words with a big size. We can see that one of the words are often appearing is "Gaji", so we can make a hypothesis that the public may be worried or asked about their "Gaji"(salary)?.
 
 ![sentiment proportion](https://user-images.githubusercontent.com/102334577/161467256-406ce677-5349-48c9-bc80-6fe640c2995b.png)
 

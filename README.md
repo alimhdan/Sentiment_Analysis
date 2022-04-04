@@ -18,7 +18,7 @@ The picture above is a picture of sentiment score from crawling twitter data wit
      0.399   0.601
 
 # Random Forest 
-In this project, I devided the dataset with proportion of 70% for train data and 30% for test data. Here are the results of performance Random Forest Classification:
+In this project, I divided the dataset with the proportion of 70% for train data and 30% for test data. Here are the results of the performance Random Forest Classification:
 
     Confusion Matrix and Statistics
 
@@ -47,5 +47,5 @@ In this project, I devided the dataset with proportion of 70% for train data and
                                           
        'Positive' Class : Negatif         
    
-   We can see that, classification accuracy is 0.9233 or 92.33% so the accuracy is well. Sensitivity and Specificity are more than 0.8 is a high value so we can conclude that the performance is very well.
+ We can see that, classification accuracy is 0.9233 or 92.33% so the accuracy is well. Sensitivity and Specificity are more than 0.8 is a high value so we can conclude that the performance is very well.
    

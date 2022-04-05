@@ -5,7 +5,7 @@ Random Forest for sentiment analysis from Twitter Crawling with sentence specifi
 This project started from the issue of increased fuel prices in early April in Indonesia. Many people complain about this. So, I decided to make this project to research how the public sentiment regarding this issue.
 
 # Result 
-I used the data from crawling data on Twitter with the sentence specification is "kenaikan harga bbm". From crawling data on Twitter, collected 1000 rows of data (tweets). After collecting data, I must to preprocessing this data to get clear data before used in Sentiment Analysis. In this project, I divided the data into proportions of 70% of train data and 30% of test data.
+I used the data from crawling data on Twitter with the sentence specification "kenaikan harga bbm". From crawling data on Twitter, collected 1000 rows of data (tweets). After collecting data, I must to preprocessing this data to get clear data before used in Sentiment Analysis. In this project, I divided the data into proportions of 70% of train data and 30% of test data.
 
 # Data Preparation
 ![BBM NAIK WORDCLOUD](https://user-images.githubusercontent.com/102334577/161466576-2f1c6a62-e505-43d8-8165-7d2993c30061.png)
